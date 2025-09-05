@@ -26,8 +26,11 @@ By the end of the program, participants will have:
    :maxdepth: 2
    :caption: Workshop Materials 
    
+   
    schedule
-   classes/algebra.ipynb
+   day1
+   day2
+   .. classes/algebra.ipynb
    classes/geometry_trig.ipynb
    classes/complex_numbers.ipynb
    classes/derivatives.ipynb
