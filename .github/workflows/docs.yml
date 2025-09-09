@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0 # full history required for gh-pages push
+          fetch-depth: 0 # full history required for gh-pages push 
 
       - name: Set up Python
         uses: actions/setup-python@v4

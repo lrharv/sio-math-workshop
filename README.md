@@ -10,4 +10,4 @@ The website is published with **GitHub Pages** at:
 ## Contributing
 - Add notebooks inside the `notebooks/` folder.  
 - Update `index.md` with a link to your notebook (using nbviewer).  
-- Open a Pull Request!  
+- Open a Pull Request!   
