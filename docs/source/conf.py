@@ -33,13 +33,18 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 #html_theme = 'alabaster'
+html_theme = 'furo'
 #html_static_path = ['_static']
 ## Use Read the Docs theme
-html_theme = "piccolo_theme"
+#html_theme = "piccolo_theme"
 html_static_path = ["_static"]
+html_favicon = '_static/math-workshop-logo.png'
+html_title = "SIO Math Workshop"
 
 # Optional: customize theme options
 html_theme_options = {
+    #"navigation_depth": 4,
+    #"show_nav_level": 2,
     "navbar_links": [
         {"href": "about", "text": "About"},
         {"href": "notebooks/example_notebook", "text": "Notebooks"},
