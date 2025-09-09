@@ -12,5 +12,8 @@ __pycache__/
 .env/
 venv/
 
+# build directory (contains sphinx output and can make messy)
+docs/build/
+
 # VS Code settings
 **.vscode/
